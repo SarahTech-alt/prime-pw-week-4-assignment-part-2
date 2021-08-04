@@ -1,4 +1,15 @@
-h1 {
+header {
+  text-align: center;
   font-style: italic;
-  color: blue;
+  background-color: blue;
+}
+
+.info {
+  text-align: center;
+  background-color: teal;
+}
+
+img {
+  display: flex;
+  width: 50%;
 }
